@@ -48,6 +48,7 @@ For the model checkpoints on huggingface model hub, please note that icon_detect
 The demo for control is in main.py, simply run the code in the terminal.\
 Requirement: `langchain_core`, `langchain_ollama`, `pyautogui` \
 Model used for Function calling: `mistral-nemo`.
+For a demonstration of the control features, please refer to the [screen recording](imgs/Screen-Recording.mp4).
 
 ## 📚 Citation
 Our technical report can be found [here](https://arxiv.org/abs/2408.00203).
